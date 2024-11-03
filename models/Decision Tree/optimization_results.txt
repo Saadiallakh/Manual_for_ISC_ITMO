@@ -1,0 +1,54 @@
+Best trial value: 2068.5881528457116
+Best hyperparameters: {'max_depth': 12, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_features': 0.8}
+
+All trial results:
+Trial 0: Value=61058.41342538453, Params={'max_depth': 11, 'min_samples_split': 17, 'min_samples_leaf': 19, 'max_features': 0.8}
+Trial 1: Value=61058.41342538453, Params={'max_depth': 16, 'min_samples_split': 4, 'min_samples_leaf': 19, 'max_features': 0.8}
+Trial 2: Value=23597.367269589624, Params={'max_depth': 3, 'min_samples_split': 9, 'min_samples_leaf': 5, 'max_features': 1.0}
+Trial 3: Value=34256.75767098338, Params={'max_depth': 13, 'min_samples_split': 19, 'min_samples_leaf': 9, 'max_features': 'sqrt'}
+Trial 4: Value=20926.94377881794, Params={'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 7, 'max_features': 'log2'}
+Trial 5: Value=3072.3871926991833, Params={'max_depth': 7, 'min_samples_split': 16, 'min_samples_leaf': 4, 'max_features': 'log2'}
+Trial 6: Value=2068.5881528457116, Params={'max_depth': 12, 'min_samples_split': 7, 'min_samples_leaf': 1, 'max_features': 0.8}
+Trial 7: Value=4029.647813705134, Params={'max_depth': 4, 'min_samples_split': 11, 'min_samples_leaf': 1, 'max_features': 0.8}
+Trial 8: Value=49398.74771330653, Params={'max_depth': 7, 'min_samples_split': 7, 'min_samples_leaf': 12, 'max_features': 0.5}
+Trial 9: Value=61058.41617708321, Params={'max_depth': 10, 'min_samples_split': 9, 'min_samples_leaf': 19, 'max_features': 1.0}
+Trial 10: Value=56219.95888639641, Params={'max_depth': 19, 'min_samples_split': 2, 'min_samples_leaf': 14, 'max_features': 'sqrt'}
+Trial 11: Value=3167.480673359685, Params={'max_depth': 7, 'min_samples_split': 14, 'min_samples_leaf': 2, 'max_features': 'log2'}
+Trial 12: Value=13537.067440601959, Params={'max_depth': 14, 'min_samples_split': 13, 'min_samples_leaf': 5, 'max_features': 'log2'}
+Trial 13: Value=2712.3335755180665, Params={'max_depth': 7, 'min_samples_split': 16, 'min_samples_leaf': 3, 'max_features': 0.5}
+Trial 14: Value=2217.960070296762, Params={'max_depth': 16, 'min_samples_split': 20, 'min_samples_leaf': 1, 'max_features': 0.5}
+Trial 15: Value=2165.7609031823763, Params={'max_depth': 18, 'min_samples_split': 19, 'min_samples_leaf': 1, 'max_features': 0.5}
+Trial 16: Value=30245.281892939092, Params={'max_depth': 20, 'min_samples_split': 11, 'min_samples_leaf': 8, 'max_features': 0.5}
+Trial 17: Value=56871.868913037855, Params={'max_depth': 17, 'min_samples_split': 7, 'min_samples_leaf': 15, 'max_features': 0.8}
+Trial 18: Value=20029.971234463203, Params={'max_depth': 18, 'min_samples_split': 14, 'min_samples_leaf': 6, 'max_features': 0.5}
+Trial 19: Value=34943.859570163564, Params={'max_depth': 14, 'min_samples_split': 9, 'min_samples_leaf': 10, 'max_features': 0.8}
+Trial 20: Value=2719.0991242340483, Params={'max_depth': 12, 'min_samples_split': 18, 'min_samples_leaf': 3, 'max_features': 'sqrt'}
+Trial 21: Value=2217.960070296762, Params={'max_depth': 16, 'min_samples_split': 20, 'min_samples_leaf': 1, 'max_features': 0.5}
+Trial 22: Value=2217.960070296762, Params={'max_depth': 15, 'min_samples_split': 20, 'min_samples_leaf': 1, 'max_features': 0.5}
+Trial 23: Value=2719.0991242340483, Params={'max_depth': 18, 'min_samples_split': 18, 'min_samples_leaf': 3, 'max_features': 0.5}
+Trial 24: Value=13549.974638618636, Params={'max_depth': 16, 'min_samples_split': 15, 'min_samples_leaf': 5, 'max_features': 0.5}
+Trial 25: Value=2110.51370302894, Params={'max_depth': 19, 'min_samples_split': 12, 'min_samples_leaf': 1, 'max_features': 1.0}
+Trial 26: Value=2650.084849813157, Params={'max_depth': 20, 'min_samples_split': 12, 'min_samples_leaf': 3, 'max_features': 1.0}
+Trial 27: Value=20935.233011804467, Params={'max_depth': 18, 'min_samples_split': 7, 'min_samples_leaf': 7, 'max_features': 1.0}
+Trial 28: Value=49404.30353272381, Params={'max_depth': 9, 'min_samples_split': 5, 'min_samples_leaf': 12, 'max_features': 1.0}
+Trial 29: Value=59743.58514223716, Params={'max_depth': 12, 'min_samples_split': 3, 'min_samples_leaf': 17, 'max_features': 0.8}
+Trial 30: Value=3017.241719141524, Params={'max_depth': 19, 'min_samples_split': 8, 'min_samples_leaf': 4, 'max_features': 1.0}
+Trial 31: Value=2162.8954320593675, Params={'max_depth': 17, 'min_samples_split': 17, 'min_samples_leaf': 1, 'max_features': 0.8}
+Trial 32: Value=2737.3013957141757, Params={'max_depth': 17, 'min_samples_split': 17, 'min_samples_leaf': 2, 'max_features': 0.8}
+Trial 33: Value=2738.7522603486595, Params={'max_depth': 20, 'min_samples_split': 18, 'min_samples_leaf': 2, 'max_features': 0.8}
+Trial 34: Value=2086.6155251305577, Params={'max_depth': 14, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 0.8}
+Trial 35: Value=3011.060985183443, Params={'max_depth': 14, 'min_samples_split': 11, 'min_samples_leaf': 4, 'max_features': 0.8}
+Trial 36: Value=2662.4396686243963, Params={'max_depth': 13, 'min_samples_split': 10, 'min_samples_leaf': 2, 'max_features': 0.8}
+Trial 37: Value=20016.757919133346, Params={'max_depth': 11, 'min_samples_split': 6, 'min_samples_leaf': 6, 'max_features': 0.8}
+Trial 38: Value=3014.3867611832843, Params={'max_depth': 15, 'min_samples_split': 13, 'min_samples_leaf': 4, 'max_features': 0.8}
+Trial 39: Value=20016.757919133346, Params={'max_depth': 13, 'min_samples_split': 10, 'min_samples_leaf': 6, 'max_features': 0.8}
+Trial 40: Value=3175.9645404295366, Params={'max_depth': 9, 'min_samples_split': 8, 'min_samples_leaf': 2, 'max_features': 'sqrt'}
+Trial 41: Value=2162.8932855856597, Params={'max_depth': 17, 'min_samples_split': 16, 'min_samples_leaf': 1, 'max_features': 1.0}
+Trial 42: Value=2162.8932855856597, Params={'max_depth': 17, 'min_samples_split': 16, 'min_samples_leaf': 1, 'max_features': 1.0}
+Trial 43: Value=2671.8923968001104, Params={'max_depth': 15, 'min_samples_split': 15, 'min_samples_leaf': 3, 'max_features': 1.0}
+Trial 44: Value=2110.51370302894, Params={'max_depth': 11, 'min_samples_split': 12, 'min_samples_leaf': 1, 'max_features': 1.0}
+Trial 45: Value=2687.7532257619746, Params={'max_depth': 10, 'min_samples_split': 12, 'min_samples_leaf': 2, 'max_features': 1.0}
+Trial 46: Value=3005.7475018774294, Params={'max_depth': 12, 'min_samples_split': 10, 'min_samples_leaf': 4, 'max_features': 1.0}
+Trial 47: Value=2650.0849057488253, Params={'max_depth': 9, 'min_samples_split': 12, 'min_samples_leaf': 3, 'max_features': 1.0}
+Trial 48: Value=61996.38147502969, Params={'max_depth': 11, 'min_samples_split': 13, 'min_samples_leaf': 20, 'max_features': 'log2'}
+Trial 49: Value=2080.018191817856, Params={'max_depth': 13, 'min_samples_split': 8, 'min_samples_leaf': 1, 'max_features': 1.0}
