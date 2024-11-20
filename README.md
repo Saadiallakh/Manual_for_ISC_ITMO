@@ -12,3 +12,5 @@ hf_gibbs_free_energy_ev       |Training| Gibbs free energy of the supramolecular
 hf_electronic_energy_ev       |Training| Electronic energy of the supramolecular system, calculated using the HF approximation
 hf_entropy_ev       |Training| Entropy of the supramolecular system, calculated using the HF approximation
 hf_enthalpy_ev       |Training| Enthalpy of the supramolecular system, calculated using the HF approximation
+
+![User Interface](graphical_abstract.png)
