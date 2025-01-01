@@ -1,3 +1,6 @@
+# Follow the link to download the Manual
+https://books.ifmo.ru/book/2745/Practice-Oriented_Introduction_to_Machine_Learning_:_Linear_Regression%2C_Decision_Tree%2C_and_Single_Layer_Perceptron_models_:_uchebno-metodicheskoe_posobie..htm 
+
 # Dataset description
 
 The data represents the energy values of supramolecular systems, which were calculated using two different Quantum Chemical approximations. The "HF" (Hartree-Fock) set was calculated using a fast but inaccurate approximation, while "DFT" (Density Functional Theory) was calculated using accurate yet time-consuming approximation.
