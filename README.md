@@ -7,13 +7,13 @@ The data represents the energy values of supramolecular systems, calculated usin
 
 Feature  | Type | Level of theory
 -------------------|--------------------|--------------------
-dft_gibbs_free_energy_ev       |Target| Gibbs free energy calculated using DFT
-dft_electronic_energy_ev       |Target| Electronic energy calculated using DFT
-dft_entropy_ev       |Target| Entropy calculated using DFT
-dft_enthalpy_ev       |Target| Enthalpy calculated using DFT
-hf_gibbs_free_energy_ev       |Training| Gibbs free energy calculated using HF
-hf_electronic_energy_ev       |Training| Electronic energy calculated using HF
-hf_entropy_ev       |Training| Entropy calculated using HF
-hf_enthalpy_ev       |Training| Enthalpy calculated using HF
+dft_gibbs_free_energy_ev       |Target| Gibbs free energy of the supramolecular system, calculated using the DFT
+dft_electronic_energy_ev       |Target| Electronic energy of the supramolecular system, calculated using the DFT
+dft_entropy_ev       |Target| Entropy of the supramolecular system, calculated using the DFT
+dft_enthalpy_ev       |Target| Enthalpy of the supramolecular system, calculated using the DFT
+hf_gibbs_free_energy_ev       |Training| Gibbs free energy of the supramolecular system, calculated using the HF
+hf_electronic_energy_ev       |Training| Electronic energy of the supramolecular system, calculated using the HF
+hf_entropy_ev       |Training| Entropy of the supramolecular system, calculated using the HF
+hf_enthalpy_ev       |Training| Enthalpy of the supramolecular system, calculated using the HF
 
 ![User Interface](graphical_abstract.png)
