@@ -1,6 +1,9 @@
 # Follow the link to download the Manual
 https://books.ifmo.ru/book/2745/Practice-Oriented_Introduction_to_Machine_Learning_:_Linear_Regression%2C_Decision_Tree%2C_and_Single_Layer_Perceptron_models_:_uchebno-metodicheskoe_posobie..htm 
 
+# Cite the Manual 
+Normatov S., Nesterov P.V., Aliev T.A., Timralieva A.A., Novikov A.S., Skorb E.V. Practice-Oriented Introduction to Machine Learning : Linear Regression, Decision Tree, and Single Layer Perceptron models : Учебно-методическое пособие. - Санкт-Петербург: Университет ИТМО, 2024. - 51 с. - экз.
+
 # Dataset description
 
 The data represents the energy values of supramolecular systems, calculated using two Quantum Chemical approximations. The "hf_" (Hartree-Fock) set was calculated using fast but inaccurate approximation, while "dft_" (Density Functional Theory) set was calculated using accurate yet time-consuming approximation.
