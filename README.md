@@ -3,17 +3,17 @@ https://books.ifmo.ru/book/2745/Practice-Oriented_Introduction_to_Machine_Learni
 
 # Dataset description
 
-The data represents the energy values of supramolecular systems, which were calculated using two different Quantum Chemical approximations. The "HF" (Hartree-Fock) set was calculated using a fast but inaccurate approximation, while "DFT" (Density Functional Theory) was calculated using accurate yet time-consuming approximation.
+The data represents the energy values of supramolecular systems, calculated using two Quantum Chemical approximations. The "hf_" (Hartree-Fock) set was calculated using fast but inaccurate approximation, while "dft_" (Density Functional Theory) set was calculated using accurate yet time-consuming approximation.
 
-Feature  | Feature Type | Description
+Feature  | Type | Level of theory
 -------------------|--------------------|--------------------
-dft_gibbs_free_energy_ev       |Target| Gibbs free energy of the supramolecular system, calculated using the DFT approximation 
-dft_electronic_energy_ev       |Target| Electronic energy of the supramolecular system, calculated using the DFT approximation
-dft_entropy_ev       |Target| Entropy of the supramolecular system, calculated using the DFT approximation
-dft_enthalpy_ev       |Target| Enthalpy of the supramolecular system, calculated using the DFT approximation
-hf_gibbs_free_energy_ev       |Training| Gibbs free energy of the supramolecular system, calculated using the HF approximation 
-hf_electronic_energy_ev       |Training| Electronic energy of the supramolecular system, calculated using the HF approximation
-hf_entropy_ev       |Training| Entropy of the supramolecular system, calculated using the HF approximation
-hf_enthalpy_ev       |Training| Enthalpy of the supramolecular system, calculated using the HF approximation
+dft_gibbs_free_energy_ev       |Target| Gibbs free energy calculated using DFT
+dft_electronic_energy_ev       |Target| Electronic energy calculated using DFT
+dft_entropy_ev       |Target| Entropy calculated using DFT
+dft_enthalpy_ev       |Target| Enthalpy calculated using DFT
+hf_gibbs_free_energy_ev       |Training| Gibbs free energy calculated using HF
+hf_electronic_energy_ev       |Training| Electronic energy calculated using HF
+hf_entropy_ev       |Training| Entropy calculated using HF
+hf_enthalpy_ev       |Training| Enthalpy calculated using HF
 
 ![User Interface](graphical_abstract.png)
