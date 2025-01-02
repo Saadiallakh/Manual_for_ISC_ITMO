@@ -1,4 +1,4 @@
-# Follow the link to download the Manual
+# Download the Manual
 https://books.ifmo.ru/book/2745/Practice-Oriented_Introduction_to_Machine_Learning_:_Linear_Regression%2C_Decision_Tree%2C_and_Single_Layer_Perceptron_models_:_uchebno-metodicheskoe_posobie..htm 
 
 # Cite the Manual 
